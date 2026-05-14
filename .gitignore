@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Generated map and analysis artifacts
+stable_map*.png
+stable_map*.json
+stable_map*.npz
+competition_data.jsonl
+competition_cycle.json
+visualization.png
